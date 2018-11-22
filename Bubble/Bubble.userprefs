@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{82BA097A-A849-480E-94C5-D1B79319FC82}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Bubble/Program.cs">
+    <Files>
+      <File FileName="Bubble/Program.cs" Line="18" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Bubble PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

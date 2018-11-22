@@ -1,0 +1,11 @@
+/Users/osmarenrique/Projects/Bubble/Bubble/bin/Debug/netcoreapp2.0/Bubble.deps.json
+/Users/osmarenrique/Projects/Bubble/Bubble/bin/Debug/netcoreapp2.0/Bubble.runtimeconfig.json
+/Users/osmarenrique/Projects/Bubble/Bubble/bin/Debug/netcoreapp2.0/Bubble.runtimeconfig.dev.json
+/Users/osmarenrique/Projects/Bubble/Bubble/bin/Debug/netcoreapp2.0/Bubble.dll
+/Users/osmarenrique/Projects/Bubble/Bubble/bin/Debug/netcoreapp2.0/Bubble.pdb
+/Users/osmarenrique/Projects/Bubble/Bubble/obj/Debug/netcoreapp2.0/Bubble.csprojResolveAssemblyReference.cache
+/Users/osmarenrique/Projects/Bubble/Bubble/obj/Debug/netcoreapp2.0/Bubble.csproj.CoreCompileInputs.cache
+/Users/osmarenrique/Projects/Bubble/Bubble/obj/Debug/netcoreapp2.0/Bubble.AssemblyInfoInputs.cache
+/Users/osmarenrique/Projects/Bubble/Bubble/obj/Debug/netcoreapp2.0/Bubble.AssemblyInfo.cs
+/Users/osmarenrique/Projects/Bubble/Bubble/obj/Debug/netcoreapp2.0/Bubble.dll
+/Users/osmarenrique/Projects/Bubble/Bubble/obj/Debug/netcoreapp2.0/Bubble.pdb
